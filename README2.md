@@ -19,96 +19,54 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">区块链整理</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+   本文档的初衷是方便自己投资
     <br />
     <a href="https://github.com/feiyu567/yuanyuzhou"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/feiyu567/yuanyuzhou">查看Demo</a>
+  <!--  <a href="https://github.com/feiyu567/yuanyuzhou">查看Demo</a>
     ·
     <a href="https://github.com/feiyu567/yuanyuzhou/issues">报告Bug</a>
     ·
-    <a href="https://github.com/feiyu567/yuanyuzhou/issues">提出新特性</a>
+    <a href="https://github.com/feiyu567/yuanyuzhou/issues">提出新特性</a> -->
   </p>
 
 </p>
 
-
- 本篇README.md面向开发者
  
 ## 目录
-
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
+- [综合资料](#综合资料)
+  - [Messari年度报告](#Messari年度报告)
+- [元宇宙](#元宇宙)
+- [DAO](#文件目录说明)
+- [NTF](#开发的架构)
+- [L2](#部署)
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
-### 上手指南
-
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
-
+### 综合资料
+[Messari年度报告](https://mirror.xyz/0xE43a21Ee76b591fe6E479da8a8a388FCfea6F77F/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA)
 
 
-###### 开发前的配置要求
+
+###  元宇宙 
 
 1. xxxxx x.x.x
 2. xxxxx x.x.x
 
-###### **安装步骤**
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/feiyu567/yuanyuzhou.git
-```
-
-### 文件目录说明
-eg:
-
-```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
-
-```
 
 
-
-
-
-### 开发的架构 
+### DAO 
 
 请阅读[ARCHITECTURE.md](https://github.com/feiyu567/yuanyuzhou/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
 
-### 部署
+### NTF
 
 暂无
 
-### 使用到的框架
+### L2
 
 - [xxxxxxx](https://getbootstrap.com)
 - [xxxxxxx](https://jquery.com)
@@ -116,7 +74,7 @@ filetree
 
 ### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+如果你有好的资料，或想成为贡献者，请给我发邮件 panghu960@gmail.com
 
 #### 如何参与开源项目
 
